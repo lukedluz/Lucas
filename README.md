@@ -7,5 +7,4 @@ Eu sou o Lucas.
 - 😄 Estou cursando Tecnologia da Informação...
 - 💻 Possuo conhecimento intermediário em PHP e Vue.JS...
 
-![Untitled](https://github.com/lukedluz/Lucas/assets/25708504/4d8af19a-ae0e-4864-bb9a-b4aa25051157)
-
+![Untitled (1)](https://github.com/lukedluz/Lucas/assets/25708504/f13938ea-fdb0-4ed2-976a-718a83afd270)
